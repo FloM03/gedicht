@@ -8,3 +8,6 @@ Hallo,
 ich 
 bin
 mehr
+hund
+katze
+maus
