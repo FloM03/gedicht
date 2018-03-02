@@ -4,6 +4,7 @@
 4
 5
 6
+Was soll ich denn hier noch alles rein schreiben?????
 Hallo,
 ich 
 bin
@@ -11,3 +12,8 @@ mehr
 hund
 katze
 maus
+gelb
+blau
+rot
+grün
+
