@@ -8,3 +8,7 @@ Hallo,
 ich 
 bin
 mehr
+gelb
+blau
+rot
+grün
