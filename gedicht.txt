@@ -9,7 +9,11 @@ Hallo,
 ich 
 bin
 mehr
+hund
+katze
+maus
 gelb
 blau
 rot
 grün
+
